@@ -10,8 +10,8 @@
 ## Keymaps
 
 - Prefix key: ctrl + space
-- Split horizontal: <prefix> + -
-- Split vertical: <prefix> + =
-- Pane navigation: ctrl + <vim movement keys>
-- Window navigaton: shift + alt + <h or l> 
+- Split horizontal: (prefix key) + -
+- Split vertical: (prefix key) + =
+- Pane navigation: ctrl + (vim movement keys)
+- Window navigaton: shift + alt + (h or l) 
 
